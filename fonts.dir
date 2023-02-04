@@ -1,0 +1,338 @@
+337
+:0:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk jp-0-r-normal--0-0-0-0-p-0-ascii-0
+:0:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk jp-0-r-normal--0-0-0-0-p-0-cns11643-1
+:0:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk jp-0-r-normal--0-0-0-0-p-0-cns11643-2
+:0:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk jp-0-r-normal--0-0-0-0-p-0-cns11643-3
+:0:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk jp-0-r-normal--0-0-0-0-p-0-gb18030.2000-0
+:0:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk jp-0-r-normal--0-0-0-0-p-0-gb2312.1980-0
+:0:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk jp-0-r-normal--0-0-0-0-p-0-iso10646-1
+:0:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk jp-0-r-normal--0-0-0-0-p-0-iso8859-1
+:0:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk jp-0-r-normal--0-0-0-0-p-0-jisx0201.1976-0
+:0:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk jp-0-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+:0:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk jp-0-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+:0:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk jp-0-r-normal--0-0-0-0-p-0-koi8-r
+:0:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk jp-0-r-normal--0-0-0-0-p-0-ksc5601.1987-0
+:0:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk jp-0-r-normal--0-0-0-0-p-0-ascii-0
+:0:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk jp-0-r-normal--0-0-0-0-p-0-cns11643-1
+:0:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk jp-0-r-normal--0-0-0-0-p-0-cns11643-2
+:0:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk jp-0-r-normal--0-0-0-0-p-0-cns11643-3
+:0:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk jp-0-r-normal--0-0-0-0-p-0-gb18030.2000-0
+:0:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk jp-0-r-normal--0-0-0-0-p-0-gb2312.1980-0
+:0:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk jp-0-r-normal--0-0-0-0-p-0-iso10646-1
+:0:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk jp-0-r-normal--0-0-0-0-p-0-iso8859-1
+:0:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk jp-0-r-normal--0-0-0-0-p-0-jisx0201.1976-0
+:0:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk jp-0-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+:0:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk jp-0-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+:0:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk jp-0-r-normal--0-0-0-0-p-0-koi8-r
+:0:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk jp-0-r-normal--0-0-0-0-p-0-ksc5601.1987-0
+:0:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk jp-0-r-normal--0-0-0-0-p-0-ascii-0
+:0:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk jp-0-r-normal--0-0-0-0-p-0-cns11643-1
+:0:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk jp-0-r-normal--0-0-0-0-p-0-cns11643-2
+:0:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk jp-0-r-normal--0-0-0-0-p-0-cns11643-3
+:0:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk jp-0-r-normal--0-0-0-0-p-0-gb18030.2000-0
+:0:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk jp-0-r-normal--0-0-0-0-p-0-gb2312.1980-0
+:0:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk jp-0-r-normal--0-0-0-0-p-0-iso10646-1
+:0:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk jp-0-r-normal--0-0-0-0-p-0-iso8859-1
+:0:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk jp-0-r-normal--0-0-0-0-p-0-jisx0201.1976-0
+:0:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk jp-0-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+:0:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk jp-0-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+:0:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk jp-0-r-normal--0-0-0-0-p-0-koi8-r
+:0:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk jp-0-r-normal--0-0-0-0-p-0-ksc5601.1987-0
+:0:Roboto-Italic[wdth,wght].ttf -google-roboto-0-i-0--0-0-0-0-p-0-adobe-standard
+:0:Roboto-Italic[wdth,wght].ttf -google-roboto-0-i-0--0-0-0-0-p-0-ascii-0
+:0:Roboto-Italic[wdth,wght].ttf -google-roboto-0-i-0--0-0-0-0-p-0-iso10646-1
+:0:Roboto-Italic[wdth,wght].ttf -google-roboto-0-i-0--0-0-0-0-p-0-iso8859-1
+:0:Roboto-Italic[wdth,wght].ttf -google-roboto-0-i-0--0-0-0-0-p-0-iso8859-10
+:0:Roboto-Italic[wdth,wght].ttf -google-roboto-0-i-0--0-0-0-0-p-0-iso8859-13
+:0:Roboto-Italic[wdth,wght].ttf -google-roboto-0-i-0--0-0-0-0-p-0-iso8859-15
+:0:Roboto-Italic[wdth,wght].ttf -google-roboto-0-i-0--0-0-0-0-p-0-iso8859-16
+:0:Roboto-Italic[wdth,wght].ttf -google-roboto-0-i-0--0-0-0-0-p-0-iso8859-2
+:0:Roboto-Italic[wdth,wght].ttf -google-roboto-0-i-0--0-0-0-0-p-0-iso8859-3
+:0:Roboto-Italic[wdth,wght].ttf -google-roboto-0-i-0--0-0-0-0-p-0-iso8859-4
+:0:Roboto-Italic[wdth,wght].ttf -google-roboto-0-i-0--0-0-0-0-p-0-iso8859-5
+:0:Roboto-Italic[wdth,wght].ttf -google-roboto-0-i-0--0-0-0-0-p-0-iso8859-7
+:0:Roboto-Italic[wdth,wght].ttf -google-roboto-0-i-0--0-0-0-0-p-0-iso8859-9
+:0:Roboto-Italic[wdth,wght].ttf -google-roboto-0-i-0--0-0-0-0-p-0-koi8-e
+:0:Roboto-Italic[wdth,wght].ttf -google-roboto-0-i-0--0-0-0-0-p-0-koi8-r
+:0:Roboto-Italic[wdth,wght].ttf -google-roboto-0-i-0--0-0-0-0-p-0-koi8-ru
+:0:Roboto-Italic[wdth,wght].ttf -google-roboto-0-i-0--0-0-0-0-p-0-koi8-u
+:0:Roboto-Italic[wdth,wght].ttf -google-roboto-0-i-0--0-0-0-0-p-0-koi8-uni
+:0:Roboto-Italic[wdth,wght].ttf -google-roboto-0-i-0--0-0-0-0-p-0-microsoft-cp1252
+:0:RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf -google-roboto flex-0-0-0-[]-0-0-0-0-p-0-adobe-standard
+:0:RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf -google-roboto flex-0-0-0-[]-0-0-0-0-p-0-ascii-0
+:0:RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf -google-roboto flex-0-0-0-[]-0-0-0-0-p-0-iso10646-1
+:0:RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf -google-roboto flex-0-0-0-[]-0-0-0-0-p-0-iso8859-1
+:0:RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf -google-roboto flex-0-0-0-[]-0-0-0-0-p-0-iso8859-10
+:0:RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf -google-roboto flex-0-0-0-[]-0-0-0-0-p-0-iso8859-13
+:0:RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf -google-roboto flex-0-0-0-[]-0-0-0-0-p-0-iso8859-15
+:0:RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf -google-roboto flex-0-0-0-[]-0-0-0-0-p-0-iso8859-16
+:0:RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf -google-roboto flex-0-0-0-[]-0-0-0-0-p-0-iso8859-2
+:0:RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf -google-roboto flex-0-0-0-[]-0-0-0-0-p-0-iso8859-3
+:0:RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf -google-roboto flex-0-0-0-[]-0-0-0-0-p-0-iso8859-4
+:0:RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf -google-roboto flex-0-0-0-[]-0-0-0-0-p-0-iso8859-5
+:0:RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf -google-roboto flex-0-0-0-[]-0-0-0-0-p-0-iso8859-7
+:0:RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf -google-roboto flex-0-0-0-[]-0-0-0-0-p-0-iso8859-9
+:0:RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf -google-roboto flex-0-0-0-[]-0-0-0-0-p-0-koi8-e
+:0:RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf -google-roboto flex-0-0-0-[]-0-0-0-0-p-0-koi8-r
+:0:RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf -google-roboto flex-0-0-0-[]-0-0-0-0-p-0-koi8-ru
+:0:RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf -google-roboto flex-0-0-0-[]-0-0-0-0-p-0-koi8-u
+:0:RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf -google-roboto flex-0-0-0-[]-0-0-0-0-p-0-koi8-uni
+:0:RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf -google-roboto flex-0-0-0-[]-0-0-0-0-p-0-microsoft-cp1252
+:0:RobotoMono-Italic[wght].ttf -google-roboto mono-0-i-normal--0-0-0-0-m-0-ascii-0
+:0:RobotoMono-Italic[wght].ttf -google-roboto mono-0-i-normal--0-0-0-0-m-0-iso10646-1
+:0:RobotoMono-Italic[wght].ttf -google-roboto mono-0-i-normal--0-0-0-0-m-0-iso8859-1
+:0:RobotoMono-Italic[wght].ttf -google-roboto mono-0-i-normal--0-0-0-0-m-0-iso8859-10
+:0:RobotoMono-Italic[wght].ttf -google-roboto mono-0-i-normal--0-0-0-0-m-0-iso8859-13
+:0:RobotoMono-Italic[wght].ttf -google-roboto mono-0-i-normal--0-0-0-0-m-0-iso8859-15
+:0:RobotoMono-Italic[wght].ttf -google-roboto mono-0-i-normal--0-0-0-0-m-0-iso8859-16
+:0:RobotoMono-Italic[wght].ttf -google-roboto mono-0-i-normal--0-0-0-0-m-0-iso8859-2
+:0:RobotoMono-Italic[wght].ttf -google-roboto mono-0-i-normal--0-0-0-0-m-0-iso8859-3
+:0:RobotoMono-Italic[wght].ttf -google-roboto mono-0-i-normal--0-0-0-0-m-0-iso8859-4
+:0:RobotoMono-Italic[wght].ttf -google-roboto mono-0-i-normal--0-0-0-0-m-0-iso8859-5
+:0:RobotoMono-Italic[wght].ttf -google-roboto mono-0-i-normal--0-0-0-0-m-0-iso8859-7
+:0:RobotoMono-Italic[wght].ttf -google-roboto mono-0-i-normal--0-0-0-0-m-0-iso8859-9
+:0:RobotoMono-Italic[wght].ttf -google-roboto mono-0-i-normal--0-0-0-0-m-0-koi8-e
+:0:RobotoMono-Italic[wght].ttf -google-roboto mono-0-i-normal--0-0-0-0-m-0-koi8-r
+:0:RobotoMono-Italic[wght].ttf -google-roboto mono-0-i-normal--0-0-0-0-m-0-koi8-ru
+:0:RobotoMono-Italic[wght].ttf -google-roboto mono-0-i-normal--0-0-0-0-m-0-koi8-u
+:0:RobotoMono-Italic[wght].ttf -google-roboto mono-0-i-normal--0-0-0-0-m-0-koi8-uni
+:0:RobotoMono-Italic[wght].ttf -google-roboto mono-0-i-normal--0-0-0-0-m-0-microsoft-cp1252
+:0:RobotoMono[wght].ttf -google-roboto mono-0-r-normal--0-0-0-0-m-0-ascii-0
+:0:RobotoMono[wght].ttf -google-roboto mono-0-r-normal--0-0-0-0-m-0-iso10646-1
+:0:RobotoMono[wght].ttf -google-roboto mono-0-r-normal--0-0-0-0-m-0-iso8859-1
+:0:RobotoMono[wght].ttf -google-roboto mono-0-r-normal--0-0-0-0-m-0-iso8859-10
+:0:RobotoMono[wght].ttf -google-roboto mono-0-r-normal--0-0-0-0-m-0-iso8859-13
+:0:RobotoMono[wght].ttf -google-roboto mono-0-r-normal--0-0-0-0-m-0-iso8859-15
+:0:RobotoMono[wght].ttf -google-roboto mono-0-r-normal--0-0-0-0-m-0-iso8859-16
+:0:RobotoMono[wght].ttf -google-roboto mono-0-r-normal--0-0-0-0-m-0-iso8859-2
+:0:RobotoMono[wght].ttf -google-roboto mono-0-r-normal--0-0-0-0-m-0-iso8859-3
+:0:RobotoMono[wght].ttf -google-roboto mono-0-r-normal--0-0-0-0-m-0-iso8859-4
+:0:RobotoMono[wght].ttf -google-roboto mono-0-r-normal--0-0-0-0-m-0-iso8859-5
+:0:RobotoMono[wght].ttf -google-roboto mono-0-r-normal--0-0-0-0-m-0-iso8859-7
+:0:RobotoMono[wght].ttf -google-roboto mono-0-r-normal--0-0-0-0-m-0-iso8859-9
+:0:RobotoMono[wght].ttf -google-roboto mono-0-r-normal--0-0-0-0-m-0-koi8-e
+:0:RobotoMono[wght].ttf -google-roboto mono-0-r-normal--0-0-0-0-m-0-koi8-r
+:0:RobotoMono[wght].ttf -google-roboto mono-0-r-normal--0-0-0-0-m-0-koi8-ru
+:0:RobotoMono[wght].ttf -google-roboto mono-0-r-normal--0-0-0-0-m-0-koi8-u
+:0:RobotoMono[wght].ttf -google-roboto mono-0-r-normal--0-0-0-0-m-0-koi8-uni
+:0:RobotoMono[wght].ttf -google-roboto mono-0-r-normal--0-0-0-0-m-0-microsoft-cp1252
+:0:RobotoSerif-Italic[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-i-0-[]-0-0-0-0-p-0-adobe-standard
+:0:RobotoSerif-Italic[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-i-0-[]-0-0-0-0-p-0-ascii-0
+:0:RobotoSerif-Italic[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-i-0-[]-0-0-0-0-p-0-iso10646-1
+:0:RobotoSerif-Italic[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-i-0-[]-0-0-0-0-p-0-iso8859-1
+:0:RobotoSerif-Italic[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-i-0-[]-0-0-0-0-p-0-iso8859-10
+:0:RobotoSerif-Italic[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-i-0-[]-0-0-0-0-p-0-iso8859-13
+:0:RobotoSerif-Italic[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-i-0-[]-0-0-0-0-p-0-iso8859-15
+:0:RobotoSerif-Italic[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-i-0-[]-0-0-0-0-p-0-iso8859-2
+:0:RobotoSerif-Italic[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-i-0-[]-0-0-0-0-p-0-iso8859-3
+:0:RobotoSerif-Italic[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-i-0-[]-0-0-0-0-p-0-iso8859-4
+:0:RobotoSerif-Italic[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-i-0-[]-0-0-0-0-p-0-iso8859-9
+:0:RobotoSerif-Italic[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-i-0-[]-0-0-0-0-p-0-microsoft-cp1252
+:0:RobotoSerif[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-r-0-[]-0-0-0-0-p-0-adobe-standard
+:0:RobotoSerif[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-r-0-[]-0-0-0-0-p-0-ascii-0
+:0:RobotoSerif[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-r-0-[]-0-0-0-0-p-0-iso10646-1
+:0:RobotoSerif[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-r-0-[]-0-0-0-0-p-0-iso8859-1
+:0:RobotoSerif[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-r-0-[]-0-0-0-0-p-0-iso8859-10
+:0:RobotoSerif[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-r-0-[]-0-0-0-0-p-0-iso8859-13
+:0:RobotoSerif[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-r-0-[]-0-0-0-0-p-0-iso8859-15
+:0:RobotoSerif[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-r-0-[]-0-0-0-0-p-0-iso8859-2
+:0:RobotoSerif[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-r-0-[]-0-0-0-0-p-0-iso8859-3
+:0:RobotoSerif[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-r-0-[]-0-0-0-0-p-0-iso8859-4
+:0:RobotoSerif[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-r-0-[]-0-0-0-0-p-0-iso8859-9
+:0:RobotoSerif[GRAD,opsz,wdth,wght].ttf -google-roboto serif 20pt-0-r-0-[]-0-0-0-0-p-0-microsoft-cp1252
+:0:RobotoSlab[wght].ttf -google-roboto slab-0-r-normal--0-0-0-0-p-0-adobe-standard
+:0:RobotoSlab[wght].ttf -google-roboto slab-0-r-normal--0-0-0-0-p-0-ascii-0
+:0:RobotoSlab[wght].ttf -google-roboto slab-0-r-normal--0-0-0-0-p-0-iso10646-1
+:0:RobotoSlab[wght].ttf -google-roboto slab-0-r-normal--0-0-0-0-p-0-iso8859-1
+:0:RobotoSlab[wght].ttf -google-roboto slab-0-r-normal--0-0-0-0-p-0-iso8859-10
+:0:RobotoSlab[wght].ttf -google-roboto slab-0-r-normal--0-0-0-0-p-0-iso8859-13
+:0:RobotoSlab[wght].ttf -google-roboto slab-0-r-normal--0-0-0-0-p-0-iso8859-15
+:0:RobotoSlab[wght].ttf -google-roboto slab-0-r-normal--0-0-0-0-p-0-iso8859-16
+:0:RobotoSlab[wght].ttf -google-roboto slab-0-r-normal--0-0-0-0-p-0-iso8859-2
+:0:RobotoSlab[wght].ttf -google-roboto slab-0-r-normal--0-0-0-0-p-0-iso8859-3
+:0:RobotoSlab[wght].ttf -google-roboto slab-0-r-normal--0-0-0-0-p-0-iso8859-4
+:0:RobotoSlab[wght].ttf -google-roboto slab-0-r-normal--0-0-0-0-p-0-iso8859-5
+:0:RobotoSlab[wght].ttf -google-roboto slab-0-r-normal--0-0-0-0-p-0-iso8859-7
+:0:RobotoSlab[wght].ttf -google-roboto slab-0-r-normal--0-0-0-0-p-0-iso8859-9
+:0:RobotoSlab[wght].ttf -google-roboto slab-0-r-normal--0-0-0-0-p-0-koi8-e
+:0:RobotoSlab[wght].ttf -google-roboto slab-0-r-normal--0-0-0-0-p-0-koi8-r
+:0:RobotoSlab[wght].ttf -google-roboto slab-0-r-normal--0-0-0-0-p-0-koi8-ru
+:0:RobotoSlab[wght].ttf -google-roboto slab-0-r-normal--0-0-0-0-p-0-koi8-u
+:0:RobotoSlab[wght].ttf -google-roboto slab-0-r-normal--0-0-0-0-p-0-koi8-uni
+:0:RobotoSlab[wght].ttf -google-roboto slab-0-r-normal--0-0-0-0-p-0-microsoft-cp1252
+:0:Roboto[wdth,wght].ttf -google-roboto-0-r-0--0-0-0-0-p-0-adobe-standard
+:0:Roboto[wdth,wght].ttf -google-roboto-0-r-0--0-0-0-0-p-0-ascii-0
+:0:Roboto[wdth,wght].ttf -google-roboto-0-r-0--0-0-0-0-p-0-iso10646-1
+:0:Roboto[wdth,wght].ttf -google-roboto-0-r-0--0-0-0-0-p-0-iso8859-1
+:0:Roboto[wdth,wght].ttf -google-roboto-0-r-0--0-0-0-0-p-0-iso8859-10
+:0:Roboto[wdth,wght].ttf -google-roboto-0-r-0--0-0-0-0-p-0-iso8859-13
+:0:Roboto[wdth,wght].ttf -google-roboto-0-r-0--0-0-0-0-p-0-iso8859-15
+:0:Roboto[wdth,wght].ttf -google-roboto-0-r-0--0-0-0-0-p-0-iso8859-16
+:0:Roboto[wdth,wght].ttf -google-roboto-0-r-0--0-0-0-0-p-0-iso8859-2
+:0:Roboto[wdth,wght].ttf -google-roboto-0-r-0--0-0-0-0-p-0-iso8859-3
+:0:Roboto[wdth,wght].ttf -google-roboto-0-r-0--0-0-0-0-p-0-iso8859-4
+:0:Roboto[wdth,wght].ttf -google-roboto-0-r-0--0-0-0-0-p-0-iso8859-5
+:0:Roboto[wdth,wght].ttf -google-roboto-0-r-0--0-0-0-0-p-0-iso8859-7
+:0:Roboto[wdth,wght].ttf -google-roboto-0-r-0--0-0-0-0-p-0-iso8859-9
+:0:Roboto[wdth,wght].ttf -google-roboto-0-r-0--0-0-0-0-p-0-koi8-e
+:0:Roboto[wdth,wght].ttf -google-roboto-0-r-0--0-0-0-0-p-0-koi8-r
+:0:Roboto[wdth,wght].ttf -google-roboto-0-r-0--0-0-0-0-p-0-koi8-ru
+:0:Roboto[wdth,wght].ttf -google-roboto-0-r-0--0-0-0-0-p-0-koi8-u
+:0:Roboto[wdth,wght].ttf -google-roboto-0-r-0--0-0-0-0-p-0-koi8-uni
+:0:Roboto[wdth,wght].ttf -google-roboto-0-r-0--0-0-0-0-p-0-microsoft-cp1252
+:1:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk kr-0-r-normal--0-0-0-0-p-0-ascii-0
+:1:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk kr-0-r-normal--0-0-0-0-p-0-cns11643-1
+:1:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk kr-0-r-normal--0-0-0-0-p-0-cns11643-2
+:1:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk kr-0-r-normal--0-0-0-0-p-0-cns11643-3
+:1:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk kr-0-r-normal--0-0-0-0-p-0-gb18030.2000-0
+:1:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk kr-0-r-normal--0-0-0-0-p-0-gb2312.1980-0
+:1:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk kr-0-r-normal--0-0-0-0-p-0-iso10646-1
+:1:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk kr-0-r-normal--0-0-0-0-p-0-iso8859-1
+:1:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk kr-0-r-normal--0-0-0-0-p-0-jisx0201.1976-0
+:1:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk kr-0-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+:1:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk kr-0-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+:1:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk kr-0-r-normal--0-0-0-0-p-0-koi8-r
+:1:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk kr-0-r-normal--0-0-0-0-p-0-ksc5601.1987-0
+:1:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk kr-0-r-normal--0-0-0-0-p-0-ascii-0
+:1:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk kr-0-r-normal--0-0-0-0-p-0-cns11643-1
+:1:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk kr-0-r-normal--0-0-0-0-p-0-cns11643-2
+:1:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk kr-0-r-normal--0-0-0-0-p-0-cns11643-3
+:1:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk kr-0-r-normal--0-0-0-0-p-0-gb18030.2000-0
+:1:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk kr-0-r-normal--0-0-0-0-p-0-gb2312.1980-0
+:1:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk kr-0-r-normal--0-0-0-0-p-0-iso10646-1
+:1:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk kr-0-r-normal--0-0-0-0-p-0-iso8859-1
+:1:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk kr-0-r-normal--0-0-0-0-p-0-jisx0201.1976-0
+:1:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk kr-0-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+:1:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk kr-0-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+:1:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk kr-0-r-normal--0-0-0-0-p-0-koi8-r
+:1:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk kr-0-r-normal--0-0-0-0-p-0-ksc5601.1987-0
+:1:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk kr-0-r-normal--0-0-0-0-p-0-ascii-0
+:1:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk kr-0-r-normal--0-0-0-0-p-0-cns11643-1
+:1:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk kr-0-r-normal--0-0-0-0-p-0-cns11643-2
+:1:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk kr-0-r-normal--0-0-0-0-p-0-cns11643-3
+:1:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk kr-0-r-normal--0-0-0-0-p-0-gb18030.2000-0
+:1:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk kr-0-r-normal--0-0-0-0-p-0-gb2312.1980-0
+:1:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk kr-0-r-normal--0-0-0-0-p-0-iso10646-1
+:1:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk kr-0-r-normal--0-0-0-0-p-0-iso8859-1
+:1:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk kr-0-r-normal--0-0-0-0-p-0-jisx0201.1976-0
+:1:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk kr-0-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+:1:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk kr-0-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+:1:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk kr-0-r-normal--0-0-0-0-p-0-koi8-r
+:1:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk kr-0-r-normal--0-0-0-0-p-0-ksc5601.1987-0
+:2:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk sc-0-r-normal--0-0-0-0-p-0-ascii-0
+:2:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk sc-0-r-normal--0-0-0-0-p-0-cns11643-1
+:2:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk sc-0-r-normal--0-0-0-0-p-0-cns11643-2
+:2:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk sc-0-r-normal--0-0-0-0-p-0-cns11643-3
+:2:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk sc-0-r-normal--0-0-0-0-p-0-gb18030.2000-0
+:2:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk sc-0-r-normal--0-0-0-0-p-0-gb2312.1980-0
+:2:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk sc-0-r-normal--0-0-0-0-p-0-iso10646-1
+:2:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk sc-0-r-normal--0-0-0-0-p-0-iso8859-1
+:2:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk sc-0-r-normal--0-0-0-0-p-0-jisx0201.1976-0
+:2:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk sc-0-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+:2:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk sc-0-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+:2:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk sc-0-r-normal--0-0-0-0-p-0-koi8-r
+:2:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk sc-0-r-normal--0-0-0-0-p-0-ksc5601.1987-0
+:2:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk sc-0-r-normal--0-0-0-0-p-0-ascii-0
+:2:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk sc-0-r-normal--0-0-0-0-p-0-cns11643-1
+:2:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk sc-0-r-normal--0-0-0-0-p-0-cns11643-2
+:2:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk sc-0-r-normal--0-0-0-0-p-0-cns11643-3
+:2:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk sc-0-r-normal--0-0-0-0-p-0-gb18030.2000-0
+:2:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk sc-0-r-normal--0-0-0-0-p-0-gb2312.1980-0
+:2:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk sc-0-r-normal--0-0-0-0-p-0-iso10646-1
+:2:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk sc-0-r-normal--0-0-0-0-p-0-iso8859-1
+:2:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk sc-0-r-normal--0-0-0-0-p-0-jisx0201.1976-0
+:2:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk sc-0-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+:2:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk sc-0-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+:2:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk sc-0-r-normal--0-0-0-0-p-0-koi8-r
+:2:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk sc-0-r-normal--0-0-0-0-p-0-ksc5601.1987-0
+:2:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk sc-0-r-normal--0-0-0-0-p-0-ascii-0
+:2:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk sc-0-r-normal--0-0-0-0-p-0-cns11643-1
+:2:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk sc-0-r-normal--0-0-0-0-p-0-cns11643-2
+:2:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk sc-0-r-normal--0-0-0-0-p-0-cns11643-3
+:2:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk sc-0-r-normal--0-0-0-0-p-0-gb18030.2000-0
+:2:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk sc-0-r-normal--0-0-0-0-p-0-gb2312.1980-0
+:2:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk sc-0-r-normal--0-0-0-0-p-0-iso10646-1
+:2:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk sc-0-r-normal--0-0-0-0-p-0-iso8859-1
+:2:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk sc-0-r-normal--0-0-0-0-p-0-jisx0201.1976-0
+:2:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk sc-0-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+:2:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk sc-0-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+:2:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk sc-0-r-normal--0-0-0-0-p-0-koi8-r
+:2:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk sc-0-r-normal--0-0-0-0-p-0-ksc5601.1987-0
+:3:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk tc-0-r-normal--0-0-0-0-p-0-ascii-0
+:3:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk tc-0-r-normal--0-0-0-0-p-0-cns11643-1
+:3:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk tc-0-r-normal--0-0-0-0-p-0-cns11643-2
+:3:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk tc-0-r-normal--0-0-0-0-p-0-cns11643-3
+:3:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk tc-0-r-normal--0-0-0-0-p-0-gb18030.2000-0
+:3:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk tc-0-r-normal--0-0-0-0-p-0-gb2312.1980-0
+:3:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk tc-0-r-normal--0-0-0-0-p-0-iso10646-1
+:3:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk tc-0-r-normal--0-0-0-0-p-0-iso8859-1
+:3:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk tc-0-r-normal--0-0-0-0-p-0-jisx0201.1976-0
+:3:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk tc-0-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+:3:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk tc-0-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+:3:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk tc-0-r-normal--0-0-0-0-p-0-koi8-r
+:3:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk tc-0-r-normal--0-0-0-0-p-0-ksc5601.1987-0
+:3:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk tc-0-r-normal--0-0-0-0-p-0-ascii-0
+:3:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk tc-0-r-normal--0-0-0-0-p-0-cns11643-1
+:3:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk tc-0-r-normal--0-0-0-0-p-0-cns11643-2
+:3:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk tc-0-r-normal--0-0-0-0-p-0-cns11643-3
+:3:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk tc-0-r-normal--0-0-0-0-p-0-gb18030.2000-0
+:3:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk tc-0-r-normal--0-0-0-0-p-0-gb2312.1980-0
+:3:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk tc-0-r-normal--0-0-0-0-p-0-iso10646-1
+:3:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk tc-0-r-normal--0-0-0-0-p-0-iso8859-1
+:3:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk tc-0-r-normal--0-0-0-0-p-0-jisx0201.1976-0
+:3:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk tc-0-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+:3:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk tc-0-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+:3:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk tc-0-r-normal--0-0-0-0-p-0-koi8-r
+:3:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk tc-0-r-normal--0-0-0-0-p-0-ksc5601.1987-0
+:3:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk tc-0-r-normal--0-0-0-0-p-0-ascii-0
+:3:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk tc-0-r-normal--0-0-0-0-p-0-cns11643-1
+:3:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk tc-0-r-normal--0-0-0-0-p-0-cns11643-2
+:3:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk tc-0-r-normal--0-0-0-0-p-0-cns11643-3
+:3:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk tc-0-r-normal--0-0-0-0-p-0-gb18030.2000-0
+:3:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk tc-0-r-normal--0-0-0-0-p-0-gb2312.1980-0
+:3:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk tc-0-r-normal--0-0-0-0-p-0-iso10646-1
+:3:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk tc-0-r-normal--0-0-0-0-p-0-iso8859-1
+:3:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk tc-0-r-normal--0-0-0-0-p-0-jisx0201.1976-0
+:3:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk tc-0-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+:3:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk tc-0-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+:3:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk tc-0-r-normal--0-0-0-0-p-0-koi8-r
+:3:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk tc-0-r-normal--0-0-0-0-p-0-ksc5601.1987-0
+:4:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk hk-0-r-normal--0-0-0-0-p-0-ascii-0
+:4:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk hk-0-r-normal--0-0-0-0-p-0-cns11643-1
+:4:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk hk-0-r-normal--0-0-0-0-p-0-cns11643-2
+:4:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk hk-0-r-normal--0-0-0-0-p-0-cns11643-3
+:4:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk hk-0-r-normal--0-0-0-0-p-0-gb18030.2000-0
+:4:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk hk-0-r-normal--0-0-0-0-p-0-gb2312.1980-0
+:4:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk hk-0-r-normal--0-0-0-0-p-0-iso10646-1
+:4:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk hk-0-r-normal--0-0-0-0-p-0-iso8859-1
+:4:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk hk-0-r-normal--0-0-0-0-p-0-jisx0201.1976-0
+:4:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk hk-0-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+:4:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk hk-0-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+:4:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk hk-0-r-normal--0-0-0-0-p-0-koi8-r
+:4:NotoSansCJK-VF.otf.ttc -adobe-noto sans cjk hk-0-r-normal--0-0-0-0-p-0-ksc5601.1987-0
+:4:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk hk-0-r-normal--0-0-0-0-p-0-ascii-0
+:4:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk hk-0-r-normal--0-0-0-0-p-0-cns11643-1
+:4:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk hk-0-r-normal--0-0-0-0-p-0-cns11643-2
+:4:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk hk-0-r-normal--0-0-0-0-p-0-cns11643-3
+:4:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk hk-0-r-normal--0-0-0-0-p-0-gb18030.2000-0
+:4:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk hk-0-r-normal--0-0-0-0-p-0-gb2312.1980-0
+:4:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk hk-0-r-normal--0-0-0-0-p-0-iso10646-1
+:4:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk hk-0-r-normal--0-0-0-0-p-0-iso8859-1
+:4:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk hk-0-r-normal--0-0-0-0-p-0-jisx0201.1976-0
+:4:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk hk-0-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+:4:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk hk-0-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+:4:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk hk-0-r-normal--0-0-0-0-p-0-koi8-r
+:4:NotoSansMonoCJK-VF.otf.ttc -google-noto sans mono cjk hk-0-r-normal--0-0-0-0-p-0-ksc5601.1987-0
+:4:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk hk-0-r-normal--0-0-0-0-p-0-ascii-0
+:4:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk hk-0-r-normal--0-0-0-0-p-0-cns11643-1
+:4:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk hk-0-r-normal--0-0-0-0-p-0-cns11643-2
+:4:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk hk-0-r-normal--0-0-0-0-p-0-cns11643-3
+:4:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk hk-0-r-normal--0-0-0-0-p-0-gb18030.2000-0
+:4:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk hk-0-r-normal--0-0-0-0-p-0-gb2312.1980-0
+:4:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk hk-0-r-normal--0-0-0-0-p-0-iso10646-1
+:4:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk hk-0-r-normal--0-0-0-0-p-0-iso8859-1
+:4:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk hk-0-r-normal--0-0-0-0-p-0-jisx0201.1976-0
+:4:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk hk-0-r-normal--0-0-0-0-p-0-jisx0208.1983-0
+:4:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk hk-0-r-normal--0-0-0-0-p-0-jisx0208.1990-0
+:4:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk hk-0-r-normal--0-0-0-0-p-0-koi8-r
+:4:NotoSerifCJK-VF.otf.ttc -google-noto serif cjk hk-0-r-normal--0-0-0-0-p-0-ksc5601.1987-0
